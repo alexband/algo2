@@ -36,3 +36,5 @@ print ws(jobs)
 jobs = compare(jobs, 'r')
 print ws(jobs)
 f.close()
+
+
